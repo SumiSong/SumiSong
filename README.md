@@ -18,7 +18,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 ---
 
 ## 💼 Experience
-### Samyang Corporation — *Research Intern*
+### Samyang Corporation — AI Research Intern
 2025.09 – 2025.12 | Bio Convergence Research Institute, Metabolic Pathway Design PG
 
 ---
