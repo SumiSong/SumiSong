@@ -26,7 +26,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 📜 Certificates
 
-- **Unmanned Multicopter (3 Types) Certificate** — Korea Transportation Safety Authority *(Sep. 2022)*
+- **Certificate of Ultra-Light Vehicle Pilot (Unmanned Multicopter - Class 3)**  
+  *Korea Transportation Safety Authority (TS)* | Sep. 2022
 
 ---
 
